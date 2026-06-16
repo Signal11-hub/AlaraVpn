@@ -4,8 +4,8 @@
 
 # Alara VPN — Бесплатный пробный доступ
 
-[![Обновлено](https://img.shields.io/badge/Обновлено-16:02_MSK-4B66FF?style=flat-square)](#AlaraVpn)
-[![Следующее](https://img.shields.io/badge/Следующее-16:17_MSK-A7A2FF?style=flat-square)](#AlaraVpn)
+[![Обновлено](https://img.shields.io/badge/Обновлено-16:17_MSK-4B66FF?style=flat-square)](#AlaraVpn)
+[![Следующее](https://img.shields.io/badge/Следующее-16:32_MSK-A7A2FF?style=flat-square)](#AlaraVpn)
 [![Серверов](https://img.shields.io/badge/Серверов-6-59D6FF?style=flat-square)](#AlaraVpn)
 [![Протокол](https://img.shields.io/badge/Hysteria2-активен-00C896?style=flat-square)](#AlaraVpn)
 
@@ -99,6 +99,6 @@ https://raw.githubusercontent.com/Signal11-hub/AlaraVpn/main/sub.txt
 
 **Alara VPN** · Быстро. Надёжно. Без ограничений.
 
-*Подписка обновлена: 16:02 MSK · Следующее обновление: 16:17 MSK*
+*Подписка обновлена: 16:17 MSK · Следующее обновление: 16:32 MSK*
 
 </div>
