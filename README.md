@@ -4,8 +4,8 @@
 
 # Alara VPN — Бесплатный пробный доступ
 
-[![Обновлено](https://img.shields.io/badge/Обновлено-03:32_MSK-4B66FF?style=flat-square)](#AlaraVpn)
-[![Следующее](https://img.shields.io/badge/Следующее-03:47_MSK-A7A2FF?style=flat-square)](#AlaraVpn)
+[![Обновлено](https://img.shields.io/badge/Обновлено-04:11_MSK-4B66FF?style=flat-square)](#AlaraVpn)
+[![Следующее](https://img.shields.io/badge/Следующее-04:26_MSK-A7A2FF?style=flat-square)](#AlaraVpn)
 [![Серверов](https://img.shields.io/badge/Серверов-6-59D6FF?style=flat-square)](#AlaraVpn)
 [![Протокол](https://img.shields.io/badge/Hysteria2-активен-00C896?style=flat-square)](#AlaraVpn)
 
@@ -31,13 +31,15 @@
 
 ## Подключение
 
+<!--
 ### Способ 1 — Кнопка «Добавить» (Happ)
 
 Нажми кнопку — подписка добавится автоматически:
 
 [![Добавить в Happ](https://img.shields.io/badge/Добавить_в_Happ-00B4D8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxN3YtNkg5bDMtNCAzIDRoLTJ2NmgtMnoiLz48L3N2Zz4=&logoColor=white)](happ://add?url=https%3A%2F%2Fraw.githubusercontent.com%2FSignal11-hub%2FAlaraVpn%2Fmain%2Fsub.txt)
+-->
 
-### Способ 2 — Скопировать ссылку
+### Добавить временную ссылку в Happ
 
 Вставь в любое приложение (Happ, v2rayNG, Streisand, Shadowrocket, NekoBox):
 
@@ -99,6 +101,6 @@ https://raw.githubusercontent.com/Signal11-hub/AlaraVpn/main/sub.txt
 
 **Alara VPN** · Быстро. Надёжно. Без ограничений.
 
-*Подписка обновлена: 03:32 MSK · Следующее обновление: 03:47 MSK*
+*Подписка обновлена: 04:11 MSK · Следующее обновление: 04:26 MSK*
 
 </div>
