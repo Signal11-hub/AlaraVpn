@@ -4,8 +4,8 @@
 
 # Alara VPN — Бесплатный пробный доступ
 
-[![Обновлено](https://img.shields.io/badge/Обновлено-16:56_MSK-4B66FF?style=flat-square)](#AlaraVpn)
-[![Следующее](https://img.shields.io/badge/Следующее-17:11_MSK-A7A2FF?style=flat-square)](#AlaraVpn)
+[![Обновлено](https://img.shields.io/badge/Обновлено-19:33_MSK-4B66FF?style=flat-square)](#AlaraVpn)
+[![Следующее](https://img.shields.io/badge/Следующее-19:48_MSK-A7A2FF?style=flat-square)](#AlaraVpn)
 [![Серверов](https://img.shields.io/badge/Серверов-6-59D6FF?style=flat-square)](#AlaraVpn)
 [![Протокол](https://img.shields.io/badge/Hysteria2-активен-00C896?style=flat-square)](#AlaraVpn)
 
@@ -29,43 +29,52 @@
 
 ---
 
+## ⭐ Рекомендуемый клиент — Karing
+
+Мы рекомендуем использовать **Karing** как основной клиент для подключения.
+
+Karing стабильнее работает с **Hysteria2**, автоматическими подписками и постоянной подпиской Alara VPN.
+
+---
 ## Подключение
 
-<!--
-### Способ 1 — Кнопка «Добавить» (Happ)
+### Способ 1 — Karing ⭐
 
-Нажми кнопку — подписка добавится автоматически:
+1. Установите **Karing**
+2. Скопируйте ссылку ниже
+3. Откройте Karing → **Профили → Добавить → URL**
+4. Вставьте ссылку и сохраните профиль
+5. Выберите сервер и подключитесь
+```
+https://raw.githubusercontent.com/Signal11-hub/AlaraVpn/main/sub.txt
+```
 
-[![Добавить в Happ](https://img.shields.io/badge/Добавить_в_Happ-00B4D8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxN3YtNkg5bDMtNCAzIDRoLTJ2NmgtMnoiLz48L3N2Zz4=&logoColor=white)](happ://add?url=https%3A%2F%2Fraw.githubusercontent.com%2FSignal11-hub%2FAlaraVpn%2Fmain%2Fsub.txt)
--->
+---
 
-### Добавить временную ссылку в Happ
+### Способ 2 — Happ
+Если вы уже используете **Happ**, переходить необязательно.
 
-Вставь в любое приложение (Happ, v2rayNG, Streisand, Shadowrocket, NekoBox):
+Happ также поддерживается как альтернативный вариант.
+
+Нажмите кнопку — подписка добавится автоматически:
+
+[![Добавить в Happ](https://img.shields.io/badge/Добавить_в_Happ-00B4D8?style=for-the-badge)](happ://add?url=https%3A%2F%2Fraw.githubusercontent.com%2FSignal11-hub%2FAlaraVpn%2Fmain%2Fsub.txt)
+
+Или вставьте эту же ссылку вручную:
 
 ```
 https://raw.githubusercontent.com/Signal11-hub/AlaraVpn/main/sub.txt
 ```
 
-<details>
-<summary>Как добавить ссылку в приложение</summary>
+---
+## Поддерживаемые приложения
 
-**Happ:**
-Настройки → Подписки → «+» → вставь ссылку → Сохранить
-
-**v2rayNG:**
-Группы подписок → «+» → вставь ссылку → Обновить
-
-**Streisand:**
-Сканировать → Импорт из буфера / URL → вставь ссылку
-
-**NekoBox:**
-Профиль → Добавить профиль → URL → вставь ссылку
-
-</details>
+| Приложение | Статус |
+|---|---|
+| ⭐ Karing | Рекомендуется |
+| Happ | Поддерживается как альтернатива |
 
 ---
-
 ## Серверы временной подписки
 
 | № | Локация | Протокол | Port hopping | Статус |
@@ -101,6 +110,6 @@ https://raw.githubusercontent.com/Signal11-hub/AlaraVpn/main/sub.txt
 
 **Alara VPN** · Быстро. Надёжно. Без ограничений.
 
-*Подписка обновлена: 16:56 MSK · Следующее обновление: 17:11 MSK*
+*Подписка обновлена: 19:33 MSK · Следующее обновление: 19:48 MSK*
 
 </div>
